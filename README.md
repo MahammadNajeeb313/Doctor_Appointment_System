@@ -25,6 +25,7 @@ To run the project in your local environment, follow these steps: ⬇️
 - Vite Tool
 - NodeJs.
 - Database (`MongoDB`) Free Cluster.
+- Cloudinary for API.(visit https://cloudinary.com/)
 
 ## 2️⃣ Create .env file:
 
